@@ -8,10 +8,11 @@ What do you think are the pros and cons of manually choosing when to create a co
 logical iterations, working iterations, auto saves could be to far apart
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-VCS track multiple file because of their related interactions, Goolge Docs are not related to one another
+VCS track multiple file because of their related interactions and dependencies, Goolge Docs are in most cases not directly related to one another
 
 How can you use the commands git log and git diff to view the history of files?
+git log shows the projects iterations, git diff can show the changes between different iterations
 
 
 How might using version control make you more confident to make changes that could break something?
-there would always be a backup
+there would always be a backup and everything would be easily reversible
