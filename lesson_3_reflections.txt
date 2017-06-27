@@ -8,4 +8,5 @@ so in most cases the git is only used to back up and not as often to update
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 clones are copies of repos, forks are basically cloned repos from other people to my own accound and/or local machine, branches are different parts in a repository with their own commits, 
 
- 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+newest version of the files to work with, extra backup,
