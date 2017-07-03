@@ -14,3 +14,6 @@ newest version of the files to work with, extra backup,
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 via a cloud service to share with other developers and a text files for changes and reviews, it would be harder to manage and some developers might miss some changes and
 the files would definitely be harder to review
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+to update features or fix bugs in another branch, the master would still be unaffected and the new feature can be developed in parallel
